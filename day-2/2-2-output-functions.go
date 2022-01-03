@@ -66,7 +66,4 @@ func main(){
   fmt.Printf("%4d\n", secondLuckyNumber)
   fmt.Printf("%-4d\n", secondLuckyNumber)
   fmt.Printf("%04d\n", secondLuckyNumber)
-
-
-
 }
