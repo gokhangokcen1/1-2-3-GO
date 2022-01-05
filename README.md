@@ -11,13 +11,13 @@
 |[Data Types](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-3-data-types.go)|
 |[Arrays](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-1-arrays.go)|
 |[Slices](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-2-slices.go)|
-|[Operators]()|
-|[Conditions]()|
-|[switch Statement]()|
-|[For Loops]()|
-|[Functions]()|
-|[Struct]()|
-|[Maps]()|
+|[*Operators]()|
+|[*Conditions]()|
+|[*switch Statement]()|
+|[*For Loops]()|
+|[*Functions]()|
+|[*Struct]()|
+|[*Maps]()|
 |[]()|
 |[]()|
 |[]()|
