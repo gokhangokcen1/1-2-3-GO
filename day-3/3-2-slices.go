@@ -61,9 +61,4 @@ func main(){
   fmt.Printf("animals3 : %v\n",animals3)
   fmt.Printf("length : %d\n",len(animals3))
   fmt.Printf("capacity : %d\n",cap(animals3))
-
-  
-
-
-
 }
