@@ -9,8 +9,8 @@
 |[Constants](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-1-constants.go)|
 |[Output Functions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-2-output-functions.go)|
 |[Data Types](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-3-data-types.go)|
-|[Arrays]()|
-|[Slices]()|
+|[Arrays](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-1-arrays.go)|
+|[Slices](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-2-slices.go)|
 |[Operators]()|
 |[Conditions]()|
 |[switch Statement]()|
