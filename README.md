@@ -1,7 +1,7 @@
 # My Golang adventure #
   * I'm learning golang in here. 
   * Not clean code, yet.
-  * w3school resources
+  * w3schools resources
  
 |Table of Contents|
 |---|
