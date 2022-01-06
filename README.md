@@ -12,7 +12,7 @@
 |[Arrays](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-1-arrays.go)|
 |[Slices](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-2-slices.go)|
 |[Operators](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-4/4-1-operators.go)|
-|[*Conditions]()|
+|[Conditions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-5/5-1-conditions.go)|
 |[*switch Statement]()|
 |[*For Loops]()|
 |[*Functions]()|
