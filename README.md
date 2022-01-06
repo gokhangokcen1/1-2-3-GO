@@ -11,7 +11,7 @@
 |[Data Types](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-3-data-types.go)|
 |[Arrays](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-1-arrays.go)|
 |[Slices](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-2-slices.go)|
-|[*Operators]()|
+|[Operators](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-4/4-1-operators.go)|
 |[*Conditions]()|
 |[*switch Statement]()|
 |[*For Loops]()|
