@@ -29,6 +29,6 @@ func main(){
   ages[4] = 19
 
   for i:=0;i<5;i++{
-    fmt.Printf("%v, %v yaşındadır.\n",names[i],ages[i])
+    fmt.Printf("%v, %v years old.\n",names[i],ages[i])
   }
 }
