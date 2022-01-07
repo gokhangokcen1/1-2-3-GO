@@ -1,7 +1,7 @@
 # My Golang adventure #
   * I'm learning golang in here. 
   * Not clean code, yet.
-  * resource : w3schools, official go documents
+  * resource : w3schools, official go documents, BTK GO 
  
 |Table of Contents|Projects Zero 2 Hero|
 |---|---|
