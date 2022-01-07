@@ -14,8 +14,8 @@
 |[Slices](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-2-slices.go)|
 |[Operators](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-4/4-1-operators.go)|
 |[Conditions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-5/5-1-conditions.go)|
-|[*switch Statement]()|
-|[*For Loops]()|
+|[Switch Statement](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-2-switch-statement.go)|
+|[For Loops](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-3-for-loops.go)|
 |[*Functions]()|
 |[*Struct]()|
 |[*Maps]()|
