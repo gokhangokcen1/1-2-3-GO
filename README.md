@@ -6,7 +6,7 @@
 |Table of Contents|Projects Zero 2 Hero|
 |---|---|
 |[Hello World!](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-1/1-1-hello-world.go)|[Largest number](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-1-condition-exercise.go)|
-|[Variables](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-1/1-2-variables.go)| |
+|[Variables](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-1/1-2-variables.go)|[Number guess](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-4-number-guess.go)|
 |[Constants](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-1-constants.go)| |
 |[Output Functions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-2-output-functions.go)| |
 |[Data Types](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-3-data-types.go)| |
