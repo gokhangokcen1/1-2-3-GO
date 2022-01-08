@@ -16,13 +16,13 @@ func main() {
 	// The players take turns.
 	var row,column int
 	var letter string
-	fmt.Println("Row:")
+	fmt.Print("Row : ")
 	fmt.Scanln(&row)
-	fmt.Println("Row:")
+	fmt.Print("\nColumn : ")
 	fmt.Scanln(&column)
-	fmt.Println("O-X:")
+	fmt.Print("\nO-X : ")
 	fmt.Scanln(&letter)
-	fmt.Println(letter)
+
 	
 	board[row-1][column-1] = letter
 	
