@@ -16,7 +16,7 @@
 |[Conditions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-5/5-1-conditions.go)| |
 |[Switch Statement](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-2-switch-statement.go)| |
 |[For Loops](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-3-for-loops.go)| |
-|[*Functions]()| |
+|[Functions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-7/7-1-functions.go)| |
 |[*Struct]()| |
 |[*Maps]()| |
 |[]()| |
