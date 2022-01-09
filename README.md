@@ -17,7 +17,7 @@
 |[Switch Statement](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-2-switch-statement.go)| |
 |[For Loops](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-3-for-loops.go)| |
 |[Functions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-7/7-1-functions.go)| |
-|[*Struct]()| |
+|[Struct](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-8/1-struct.go)| |
 |[*Maps]()| |
 |[]()| |
 |[]()| |
