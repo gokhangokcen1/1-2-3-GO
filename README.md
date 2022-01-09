@@ -18,7 +18,7 @@
 |[For Loops](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-3-for-loops.go)| |
 |[Functions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-7/7-1-functions.go)| |
 |[Struct](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-8/1-struct.go)| |
-|[*Maps]()| |
+|[Maps](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-8/2-maps.go)| |
 |[]()| |
 |[]()| |
 |[]()| |
