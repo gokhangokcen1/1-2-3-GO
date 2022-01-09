@@ -3,54 +3,167 @@ package main
 import "fmt"
 
 func main(){
+
+  creatingMapsUsing()
+  creatingMapsUsingUsingMakeFunction()
+  accessingMapElements()
+  updatingAndAddingMapElements()
+  removeElementFromMap()
+  checkForSpecificElementsInAMap()
+  mapsAreReferences()
+  iteratingOverMaps()
+  iterateOverMapsInASpecificOrder()
+
+
+
+}
+func creatingMapsUsing(){
   var a = map[string]string{"brand": "Ford", "model": "Mustang", "year": "1964"}
   b := map[string]int{"Oslo": 1, "Bergen": 2, "Trondheim": 3, "Stavanger": 4}
 
   fmt.Printf("a\t%v\n", a)
   fmt.Printf("b\t%v\n", b)
+} 
 
-  var c = make(map[string]string) // The map is empty now
-  c["brand"] = "Ford"
-  c["model"] = "Mustang"
-  c["year"] = "1964"
+func creatingMapsUsingUsingMakeFunction(){
+  fmt.Println()
+  var a = make(map[string]string) // The map is empty now
+  a["brand"] = "Ford"
+  a["model"] = "Mustang"
+  a["year"] = "1964"
                                  // a is no longer empty
-  d := make(map[string]int)
-  d["Oslo"] = 1
-  d["Bergen"] = 2
-  d["Trondheim"] = 3
-  d["Stavanger"] = 4
+  b := make(map[string]int)
+  b["Oslo"] = 1
+  b["Bergen"] = 2
+  b["Trondheim"] = 3
+  b["Stavanger"] = 4
 
-  fmt.Printf("a\t%v\n", b)
-  fmt.Printf("b\t%v\n", c)
+  fmt.Printf("a\t%v\n", a)
+  fmt.Printf("b\t%v\n", b)
+  fmt.Println()
+}
 
-  var e = make(map[string]string)
-  e["brand"] = "Ford"
-  e["model"] = "Mustang"
-  e["year"] = "1964"
+func creatingAnEmptyMap(){
+  fmt.Println()
+  var a = make(map[string]string)
+  var b map[string]string
 
-  fmt.Println(e)
+  fmt.Println(a == nil)
+  fmt.Println(b == nil)
+  fmt.Println()
+}
 
-  e["year"] = "1970" // Updating an element
-  e["color"] = "red" // Adding an element
+func accessingMapElements(){
+  fmt.Println()
+  var a = make(map[string]string)
+  a["brand"] = "Ford"
+  a["model"] = "Mustang"
+  a["year"] = "1964"
 
-  fmt.Println(e)
+  fmt.Printf(a["brand"])
+  fmt.Println()
+}
 
-  delete(e,"year")
+func updatingAndAddingMapElements(){
+  fmt.Println()
+  var a = make(map[string]string)
+  a["brand"] = "Ford"
+  a["model"] = "Mustang"
+  a["year"] = "1964"
 
-  fmt.Println(e)
-  fmt.Println("Check For Specific Elements in a Map")
+  fmt.Println(a)
 
-  var f = map[string]string{"brand": "Ford", "model": "Mustang", "year": "1964", "day":""}
+  a["year"] = "1970" // Updating an element
+  a["color"] = "red" // Adding an element
 
-  val1, ok1 := f["brand"] // Checking for existing key and its value
-  val2, ok2 := f["color"] // Checking for non-existing key and its value
-  val3, ok3 := f["day"]   // Checking for existing key and its value
-  _, ok4 := f["model"]    // Only checking for existing key and not its value
+  fmt.Println(a)
+  fmt.Println()
+}
+
+func removeElementFromMap(){
+  fmt.Println()
+  var a = make(map[string]string)
+  a["brand"] = "Ford"
+  a["model"] = "Mustang"
+  a["year"] = "1964"
+
+  fmt.Println(a)
+
+  delete(a,"year")
+
+  fmt.Println(a)
+  fmt.Println()
+}
+
+func checkForSpecificElementsInAMap(){
+  fmt.Println()
+  var a = map[string]string{"brand": "Ford", "model": "Mustang", "year": "1964", "day":""}
+
+  val1, ok1 := a["brand"] // Checking for existing key and its value
+  val2, ok2 := a["color"] // Checking for non-existing key and its value
+  val3, ok3 := a["day"]   // Checking for existing key and its value
+  _, ok4 := a["model"]    // Only checking for existing key and not its value
 
   fmt.Println(val1, ok1)
   fmt.Println(val2, ok2)
   fmt.Println(val3, ok3)
   fmt.Println(ok4)
+  fmt.Println()
+}
+
+func mapsAreReferences(){
+  fmt.Println()
+  var a = map[string]string{"brand": "Ford", "model": "Mustang", "year": "1964"}
+  b := a
+
+  fmt.Println(a)
+  fmt.Println(b)
+
+  b["Year"] = "1970"
+  fmt.Println("After change to b:")
+
+  fmt.Println(a)
+  fmt.Println(b)
+  fmt.Println()
+}
 
 
+func iteratingOverMaps(){
+  fmt.Println()
+  a := map[string]int{"one": 1, "two": 2, "three": 3, "four": 4}
+
+  var b []string                // defining the order
+  b = append(b, "one", "two", "three", "four")
+
+  for k, v := range a {        // loop with no order
+    fmt.Printf("%v : %v, ", k, v)
+  }
+
+  fmt.Println()
+
+  for _, element := range b {  // loop with the defined order
+    fmt.Printf("%v : %v, ", element, a[element])
+  }
+  fmt.Println()
+}
+
+
+
+func iterateOverMapsInASpecificOrder(){
+  fmt.Println()
+  a := map[string]int{"one": 1, "two": 2, "three": 3, "four": 4}
+
+  var b []string                // defining the order
+  b = append(b, "one", "two", "three", "four")
+
+  for k, v := range a {        // loop with no order
+    fmt.Printf("%v : %v, ", k, v)
+  }
+
+  fmt.Println()
+
+  for _, element := range b {  // loop with the defined order
+    fmt.Printf("%v : %v, \n", element, a[element])
+  }
+  fmt.Println()
 }
