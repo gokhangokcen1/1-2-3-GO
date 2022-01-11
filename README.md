@@ -3,7 +3,7 @@
   * Not clean code, yet.
   * Resources : [W3schools](https://www.w3schools.com/go/), [Official Go Documents](https://go.dev/tour/welcome/1), [BTK GO](https://www.btkakademi.gov.tr/portal/course/go-ile-programlamaya-giris-12760)
  
-|Table of Contents|Practices|HackerRank|
+|Table of Contents|Practices||
 |---|---|---|
 |[Hello World!](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-1/1-1-hello-world.go)|[Largest number](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-1-condition-exercise.go)||
 |[Variables](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-1/1-2-variables.go)|[Number guess](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-4-number-guess.go)||
