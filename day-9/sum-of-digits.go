@@ -9,7 +9,7 @@ func main() {
 
 	for T > 0 {
 		var N int
-		fmt.Scan(&N) //769
+		fmt.Scan(&N) 
 		var addition int
 		for N > 0 {
 			addition = addition + N%10 //Modulus ex: 769 -> 9
