@@ -1,6 +1,7 @@
 package main
 
 import "fmt"
+  //key-value architecture
 
 func main(){
 
@@ -13,6 +14,7 @@ func main(){
   mapsAreReferences()
   iteratingOverMaps()
   iterateOverMapsInASpecificOrder()
+  isInThere()
 
 
 
@@ -166,4 +168,19 @@ func iterateOverMapsInASpecificOrder(){
     fmt.Printf("%v : %v, \n", element, a[element])
   }
   fmt.Println()
+}
+func isInThere(){
+  var dictionary = make(map[string]string)
+  dictionary["book"] = "kitap"
+  dictionary["table"] = "masa"
+  dictionary["guitar"] = "gitar"
+
+  value, x := dictionary["book"]
+  fmt.Println(value)
+  fmt.Println("Is book in there :  ", x)
+
+  value2, y := dictionary["love"]
+  fmt.Println(value2)
+  fmt.Println(y)
+
 }
