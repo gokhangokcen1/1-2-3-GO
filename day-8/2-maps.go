@@ -20,6 +20,7 @@ func main(){
 
 }
 func creatingMapsUsing(){
+  fmt.Println("creatingMapsUsing")
   var a = map[string]string{"brand": "Ford", "model": "Mustang", "year": "1964"}
   b := map[string]int{"Oslo": 1, "Bergen": 2, "Trondheim": 3, "Stavanger": 4}
 
@@ -29,6 +30,7 @@ func creatingMapsUsing(){
 
 func creatingMapsUsingUsingMakeFunction(){
   fmt.Println()
+  fmt.Println("creatingMapsUsingUsingMakeFunction")
   var a = make(map[string]string) // The map is empty now
   a["brand"] = "Ford"
   a["model"] = "Mustang"
@@ -47,6 +49,7 @@ func creatingMapsUsingUsingMakeFunction(){
 
 func creatingAnEmptyMap(){
   fmt.Println()
+  fmt.Println("creatingAnEmptyMap")
   var a = make(map[string]string)
   var b map[string]string
 
@@ -57,6 +60,7 @@ func creatingAnEmptyMap(){
 
 func accessingMapElements(){
   fmt.Println()
+  fmt.Println("accessingMapElements")
   var a = make(map[string]string)
   a["brand"] = "Ford"
   a["model"] = "Mustang"
@@ -68,6 +72,7 @@ func accessingMapElements(){
 
 func updatingAndAddingMapElements(){
   fmt.Println()
+  fmt.Println("updatingAndAddingMapElements")
   var a = make(map[string]string)
   a["brand"] = "Ford"
   a["model"] = "Mustang"
@@ -84,6 +89,7 @@ func updatingAndAddingMapElements(){
 
 func removeElementFromMap(){
   fmt.Println()
+  fmt.Println("removeElementFromMap")
   var a = make(map[string]string)
   a["brand"] = "Ford"
   a["model"] = "Mustang"
@@ -99,6 +105,8 @@ func removeElementFromMap(){
 
 func checkForSpecificElementsInAMap(){
   fmt.Println()
+  fmt.Println("checkForSpecificElementsInAMap")
+
   var a = map[string]string{"brand": "Ford", "model": "Mustang", "year": "1964", "day":""}
 
   val1, ok1 := a["brand"] // Checking for existing key and its value
@@ -115,6 +123,8 @@ func checkForSpecificElementsInAMap(){
 
 func mapsAreReferences(){
   fmt.Println()
+  fmt.Println("mapsAreReferences")
+
   var a = map[string]string{"brand": "Ford", "model": "Mustang", "year": "1964"}
   b := a
 
@@ -132,6 +142,8 @@ func mapsAreReferences(){
 
 func iteratingOverMaps(){
   fmt.Println()
+  fmt.Println("iteratingOverMaps")
+
   a := map[string]int{"one": 1, "two": 2, "three": 3, "four": 4}
 
   var b []string                // defining the order
@@ -153,6 +165,8 @@ func iteratingOverMaps(){
 
 func iterateOverMapsInASpecificOrder(){
   fmt.Println()
+  fmt.Println("iterateOverMapsInASpecificOrder")
+
   a := map[string]int{"one": 1, "two": 2, "three": 3, "four": 4}
 
   var b []string                // defining the order
@@ -170,6 +184,9 @@ func iterateOverMapsInASpecificOrder(){
   fmt.Println()
 }
 func isInThere(){
+  fmt.Println()
+  fmt.Println("isInThere")
+
   var dictionary = make(map[string]string)
   dictionary["book"] = "kitap"
   dictionary["table"] = "masa"
