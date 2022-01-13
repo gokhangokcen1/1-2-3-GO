@@ -9,7 +9,7 @@
 |[Variables](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-1/1-2-variables.go)|[Number guess](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-4-number-guess.go)|[Add Two Numbers - FLOW001](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-9/add2numbers.go)|
 |[Constants](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-1-constants.go)|[Array and loop](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-5-print-array-w-loop.go)|[Sum of Digits - FLOW006](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-9/sum-of-digits.go)|
 |[Output Functions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-2-output-functions.go)|[Body Mass Index (BMI) Calculator](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-7/7-2-bmi-calculator.go)|[Find Remainder - FLOW002](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-10/find-remainder.go)|
-|[Data Types](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-3-data-types.go)|[Minutes 2 hours](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-7/7-3-minutes-2-hours.go)||
+|[Data Types](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-3-data-types.go)|[Minutes 2 hours](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-7/7-3-minutes-2-hours.go)|[First and Last Digit - FLOW004](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-11/first-and-last-digit.go)|
 |[Arrays](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-1-arrays.go)| ||
 |[Slices](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-2-slices.go)| ||
 |[Operators](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-4/4-1-operators.go)| ||
