@@ -19,7 +19,7 @@
 |[Functions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-7/7-1-functions.go)| ||
 |[Struct](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-8/1-struct.go)| ||
 |[Maps](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-8/2-maps.go)| ||
-|[]()| ||
+|[Defer](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-11/defer.go)| ||
 |[]()| ||
 |[]()| ||
 |[]()||
