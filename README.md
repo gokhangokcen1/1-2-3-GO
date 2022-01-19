@@ -11,7 +11,7 @@
 |[Output Functions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-2-output-functions.go)|[Body Mass Index (BMI) Calculator](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-7/7-2-bmi-calculator.go)|[Find Remainder - FLOW002](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-10/find-remainder.go)|
 |[Data Types](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-2/2-3-data-types.go)|[Minutes 2 hours](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-7/7-3-minutes-2-hours.go)|[First and Last Digit - FLOW004](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-11/first-and-last-digit.go)|
 |[Arrays](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-1-arrays.go)|[IMDB Top 250 Movie - Web Scraping](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-13/imdb-top-250.go)|[Small Factorials - FCTRL2](https://github.com/gokhangokcen1/3-2-1-GO/tree/main/day-12)|
-|[Slices](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-2-slices.go)| ||
+|[Slices](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-3/3-2-slices.go)|[Social Media - OSINT](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-14/osint.go)||
 |[Operators](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-4/4-1-operators.go)| ||
 |[Conditions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-5/5-1-conditions.go)| ||
 |[Switch Statement](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-6/6-2-switch-statement.go)| ||
