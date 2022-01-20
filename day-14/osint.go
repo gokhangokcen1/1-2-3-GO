@@ -72,3 +72,4 @@ func twitter(name string) {
 		color.Cyan("[+] Hesap bulundu")
 	}
 }
+
