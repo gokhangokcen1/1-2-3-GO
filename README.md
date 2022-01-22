@@ -12,7 +12,7 @@
 |[Data Types](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-02/2-3-data-types.go)|[Minutes 2 hours](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-07/7-3-minutes-2-hours.go)|[First and Last Digit - FLOW004](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-11/first-and-last-digit.go)|
 |[Arrays](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-03/3-1-arrays.go)|[IMDB Top 250 Movie - Web Scraping](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-13/imdb-top-250.go)|[Small Factorials - FCTRL2](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-12/small-factorials.go)|
 |[Slices](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-03/3-2-slices.go)|[Social Media - OSINT](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-14/osint.go)||
-|[Operators](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-04/4-1-operators.go)| ||
+|[Operators](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-04/4-1-operators.go)|[Directory/File Buster](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-15/directory-buster.go)||
 |[Conditions](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-05/5-1-conditions.go)| ||
 |[Switch Statement](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-06/6-2-switch-statement.go)| ||
 |[For Loops](https://github.com/gokhangokcen1/3-2-1-GO/blob/main/day-06/6-3-for-loops.go)| ||
