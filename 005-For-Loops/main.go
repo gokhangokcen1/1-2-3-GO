@@ -60,6 +60,11 @@ func main(){
     fmt.Printf("%v\t%v\n",index,index+1)
   }
 
+/*
+forever loop
+
+for{}
+*/
 
 
 }
